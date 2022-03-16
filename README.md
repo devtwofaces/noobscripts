@@ -1,5 +1,5 @@
 # noobscripts
-Recon script to automate your reconnaissance and find interesting stuff ;)
+Recon script to automate your reconnaissance and find interesting stuff on domains/sub-domains of a website ;)
 
 This is a heavy tool and it's not maintained anymore. Use it at your own risk.
 
