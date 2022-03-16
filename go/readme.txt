@@ -1,1 +1,1 @@
-keep your latest go tar file here
+keep the latest GO tar file here
