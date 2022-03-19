@@ -9,4 +9,4 @@ P.S: This script was made as a part of recon methodology for bug bounty hunting.
 
 ## Usage 
 
-`sh noobscripts.sh -d https://example.com`
+`./noobscripts.sh -d https://example.com`
