@@ -7,6 +7,6 @@ P.S: This script was made as a part of recon methodology for bug bounty hunting.
 
 
 
-##Usage 
+## Usage 
 
 sh noobscripts.sh -d https://example.com 
